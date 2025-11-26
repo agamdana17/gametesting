@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="5" result="Passed" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2025-11-26 04:52:26Z" end-time="2025-11-26 04:52:26Z" duration="0.051748">
+  <test-suite type="TestSuite" id="1012" name="My project" fullname="My project" runstate="Runnable" testcasecount="5" result="Passed" start-time="2025-11-26 04:52:26Z" end-time="2025-11-26 04:52:26Z" duration="0.051748" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="platform" value="EditMode" />
+    </properties>
+    <test-suite type="Assembly" id="1007" name="Tests.dll" fullname="E:/Github Desktop/GameTesting/Library/ScriptAssemblies/Tests.dll" runstate="Runnable" testcasecount="5" result="Passed" start-time="2025-11-26 04:52:26Z" end-time="2025-11-26 04:52:26Z" duration="0.035807" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="5280" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="EditMode" />
+        <property name="EditorOnly" value="True" />
+      </properties>
+      <test-suite type="TestFixture" id="1001" name="Test" fullname="Test" classname="Test" runstate="Runnable" testcasecount="5" result="Passed" start-time="2025-11-26 04:52:26Z" end-time="2025-11-26 04:52:26Z" duration="0.033828" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-case id="1005" name="Nyawa_TidakBolehHabis" fullname="Test.Nyawa_TidakBolehHabis" methodname="Nyawa_TidakBolehHabis" classname="Test" runstate="Runnable" seed="1615266418" result="Passed" start-time="2025-11-26 04:52:26Z" end-time="2025-11-26 04:52:26Z" duration="0.014830" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1004" name="NyawaBerkurang_SaatPemainMembuatKesalahan" fullname="Test.NyawaBerkurang_SaatPemainMembuatKesalahan" methodname="NyawaBerkurang_SaatPemainMembuatKesalahan" classname="Test" runstate="Runnable" seed="1496502852" result="Passed" start-time="2025-11-26 04:52:26Z" end-time="2025-11-26 04:52:26Z" duration="0.000310" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1006" name="PermainanBerakhir_SaatNyawaHabis" fullname="Test.PermainanBerakhir_SaatNyawaHabis" methodname="PermainanBerakhir_SaatNyawaHabis" classname="Test" runstate="Runnable" seed="1639377325" result="Passed" start-time="2025-11-26 04:52:26Z" end-time="2025-11-26 04:52:26Z" duration="0.000400" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1002" name="TambahSkor_KetikaJawabanBenar" fullname="Test.TambahSkor_KetikaJawabanBenar" methodname="TambahSkor_KetikaJawabanBenar" classname="Test" runstate="Runnable" seed="508454959" result="Passed" start-time="2025-11-26 04:52:26Z" end-time="2025-11-26 04:52:26Z" duration="0.000161" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1003" name="TimerMenurun" fullname="Test.TimerMenurun" methodname="TimerMenurun" classname="Test" runstate="Runnable" seed="59537860" result="Passed" start-time="2025-11-26 04:52:26Z" end-time="2025-11-26 04:52:26Z" duration="0.002270" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+          <output><![CDATA[Saving results to: C:/Users/Agam/AppData/LocalLow/DefaultCompany/My project\TestResults.xml
+]]></output>
+        </test-case>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
