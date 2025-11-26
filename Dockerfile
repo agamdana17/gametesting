@@ -14,4 +14,4 @@ RUN jenkins-plugin-cli --plugins \
     nunit \
     configuration-as-code
 
-USER admin
+USER jenkins
